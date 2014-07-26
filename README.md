@@ -24,5 +24,5 @@ Feel free to access [Google Website](http://www.google.com)
 2. 24/7 Support
 3. Testing
 
-This is what Ruby code looks like 'puts 'hellow world''
+This is what Ruby code looks like `puts 'hellow world'`
 
